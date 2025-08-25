@@ -2,8 +2,7 @@ public class Sudoku {
     /**
      * The Sudoku solver.
      *
-     * @author Elliot
-     * @author Ella, Toby
+     * @author Ella
      */
 
     public class Sudoku{
@@ -223,3 +222,4 @@ public class Sudoku {
         }
     }
 }
+
